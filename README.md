@@ -11,8 +11,8 @@
 #### 1. Pandas Library Tutorial 
    - Import and Save
    - Combining Datasets
-   - Series and DataFrames
-...         
+   - Series and DataFrames                
+...             
 #### 9. Python Resources
    - How to Read Python Documentation
    - Using Python with ChatGPT
