@@ -1,4 +1,4 @@
-***Table of COntents***
+***Table of Contents***
 
 0 - Introduction to Python
 
