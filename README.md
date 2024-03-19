@@ -4,5 +4,5 @@
 ### 1. Pandas Library Tutorial          
 ...         
 ### 9. Python Resources
-    - How to Read Python Documentation 
+    How to Read Python Documentation 
 
