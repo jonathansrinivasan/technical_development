@@ -7,11 +7,11 @@
    - Hello World
    - Keywords and Identifiers 
    - Statements, Indentation, Comments
-   - Variables and Constants
+   - Variables and Constants                  
    - Literals
    - Data Types
    - Type Converstion
-### 2. Pandas Library Tutorial 
+### 2. Pandas Library Tutorial                     
    - Import and Save
    - Combining Datasets
    - Series and DataFrames                
