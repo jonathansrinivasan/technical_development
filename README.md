@@ -1,6 +1,9 @@
 # **Table of Contents**
 
-#### 0. Introduction to Python
+## 0. Setup
+   - Introduction to Jupyter Notebooks
+
+## 1. Introduction to Python
    - Hello World
    - Keywords and Identifiers 
    - Statements, Indentation, Comments
@@ -8,11 +11,11 @@
    - Literals
    - Data Types
    - Type Converstion
-#### 1. Pandas Library Tutorial 
+## 2. Pandas Library Tutorial 
    - Import and Save
    - Combining Datasets
    - Series and DataFrames                
 ...             
-#### 9. Python Resources
+## 9. Python Resources
    - How to Read Python Documentation
    - Using Python with ChatGPT
