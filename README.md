@@ -1,4 +1,4 @@
-# **Table of Contents**
+**Table of Contents**
 
 ## 0. Setup
    - Introduction to Jupyter Notebooks
