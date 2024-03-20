@@ -16,5 +16,3 @@
 #### 9. Python Resources
    - How to Read Python Documentation
    - Using Python with ChatGPT
-
-
