@@ -1,6 +1,7 @@
 # **Table of Contents**
 
 ### 0. Setup
+   - Assessment
    - Introduction to Jupyter Notebooks
 
 ### 1. Introduction to Python
